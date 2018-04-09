@@ -1,4 +1,5 @@
-# Loc-Downloader
+Loc-Downloader ©Copyright By CONSOLEYT7
+
 Nice Downloader Made Out Of Batchfile!
 
 Open Downloader.bat To Run Loc-Downloader!
